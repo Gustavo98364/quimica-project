@@ -1,1 +1,1 @@
-# quimica-project
+# Web project
