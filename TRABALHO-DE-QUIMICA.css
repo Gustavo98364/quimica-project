@@ -4,10 +4,10 @@ body {
 }
 
 header {
-    background-color: blue;
-    color: white;
+    color: #000000;
     text-align: center;
     padding: 10px;
+    margin: -8px -8px 0 -8px;
 }
 
 h1 {
@@ -27,4 +27,10 @@ ul {
 
 li {
     margin-bottom: 5px;
+}
+
+.descricao-imagem {
+    color: #696969;
+    font-size: 14px;
+    margin: -1px 0 14px 26px;
 }
